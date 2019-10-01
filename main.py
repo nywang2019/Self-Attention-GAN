@@ -1,5 +1,3 @@
-# ny‘ test
-import torchvision
 from parameter import *
 from trainer import Trainer
 # from tester import Tester
